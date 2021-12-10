@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FetchAPI</title>
+</head>
+<body>
+    <img src="" alt="" id="copyhere">
+
+    <script>
+        console.log("about to fetch a rainbow");
+        
+        let globalResp = {};
+
+        catchRainbow()
+        .then(response=>{
+            globalResp = response;
+            mainFunction();
+
+        })
+        .catch(err=>{
+            console.log("error")
+            console.log(err)
+        });
+
+
+        async function catchRainbow(){
+            const response = await fetch("rainbow.jpg");
+            console.log(response)
+            const blob = await response.blob();
+            console.log(blob)
+            document.getElementById('copyhere').src = URL.createObjectURL(blob);
+            return response
+        }
+        
+        function mainFunction(){
+            console.log(globalResp)
+
+
+
+        }
+        
+        // fetch('rainbow.jpg')
+        // .then((response)=>{
+        //     console.log(response);
+        //     return response.blob();
+        // })
+        // .then((blob)=>{
+        //     console.log(blob);
+        //     document.getElementById('copyhere').src = URL.createObjectURL(blob);
+        // })
+        // .catch(err=>{
+        //     console.log("error")
+        //     console.log(err)
+        // })
+
+
+
+    </script>
+
+</body>
+</html>

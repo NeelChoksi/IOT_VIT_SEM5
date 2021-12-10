@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Graph Tabular data</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
+</head>
+<body>
+
+    <h1>Nasa Temperature dataset</h1>
+    <p>Link to the dataset : <a href="https://data.giss.nasa.gov/gistemp/" target="_blank">Click here</a></p>
+    
+    <canvas id="myChart" width="400" height="200"></canvas>
+    <script>
+
+        chartIt();
+
+        async function chartIt(){
+            const {xs,ys} = await getCSVData();
+            const ctx = document.getElementById('myChart').getContext('2d');
+            const myChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: xs,
+                    datasets: [{
+                        label: `Combined Land-Surface Air and Sea-Surface Water Temperature in  °C`,
+                        data: ys,
+                        backgroundColor:'rgba(255, 99, 132, 0.2)',
+                        borderColor: 'rgba(255, 99, 132, 1)',
+                        borderWidth: 1,
+                        fill:false
+                    }]
+                },
+                options: {
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                // Include a degree sign in the ticks
+                                callback: function(value, index, values) {
+                                    return value + '°C';
+                                }
+                            }
+                        }]
+                    }
+                }
+            });
+
+        }
+
+
+
+
+        async function getCSVData(){
+            const xs = [];
+            const ys = [];
+
+            
+            const response = await fetch('ZonAnn.Ts+dSST.csv');
+            const data = await response.text();
+            // console.log(data)
+
+            const table = data.split(/\n/).slice(1);
+            table.forEach(row=>{
+                const columns=row.split(',');
+                const year = columns[0];
+                xs.push(year)
+                const temp = columns[1];
+                ys.push(parseFloat(temp)+14)
+                const differenceFromMeanTemp = columns[1];
+                // console.log(columns);
+                console.log(year,differenceFromMeanTemp)
+            });
+            return { xs,ys };
+
+            // console.log(table);
+
+        }
+
+    </script>
+
+
+</body>
+</html>

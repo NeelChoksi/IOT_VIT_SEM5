@@ -1,0 +1,6095 @@
+{
+    "meta": {
+      "name": "openaq-api",
+      "license": "CC BY 4.0d",
+      "website": "https://u50g7n0cbj.execute-api.us-east-1.amazonaws.com/",
+      "page": 1,
+      "limit": 100,
+      "found": 12355
+    },
+    "results": [
+      {
+        "location": "North Campus, DU, Delhi - IMD",
+        "city": "Delhi",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 28.6573814,
+          "longitude": 77.1585447
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 16.75,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 4.78,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 339.86,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 460,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 184.1,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Sector - 62, Noida - IMD",
+        "city": "Noida",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 28.6245479,
+          "longitude": 77.3577104
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 14.95,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 2130,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 394.88,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 174.84,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 41.02,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "CRRI Mathura Road, Delhi - IMD",
+        "city": "Delhi",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 28.5512005,
+          "longitude": 77.2735737
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 337.23,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 221.57,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 9.86,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 2640,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 14.99,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Lodhi Road, Delhi - IMD",
+        "city": "Delhi",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 28.5918245,
+          "longitude": 77.2273074
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 239.13,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 22.35,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 17.38,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1070,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 400.62,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "IGI Airport (T3), Delhi - IMD",
+        "city": "Delhi",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 28.5627763,
+          "longitude": 77.1180053
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 74.46,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 354.55,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 232.64,
+            "lastUpdated": "2021-12-02T06:45:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 9.56,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 3860,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Khindipada-Bhandup West, Mumbai - IITM",
+        "city": "Mumbai",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 19.1653323,
+          "longitude": 72.922099
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 880,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 27,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 31,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 1.59,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.47,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 56.45,
+            "lastUpdated": "2021-12-02T07:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Beijing US Embassy",
+        "city": "Beijing",
+        "country": "CN",
+        "coordinates": {
+          "latitude": 39.95,
+          "longitude": 116.47
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Beijing US Embassy",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Prabadang Rehabiltation Center",
+        "city": "Samut Prakan",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.664087,
+          "longitude": 100.543436
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 0.042,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2021-07-07T02:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 62,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 34,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0,
+            "lastUpdated": "2021-11-23T04:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.007,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "London Harlington",
+        "city": "London",
+        "country": "GB",
+        "coordinates": {
+          "latitude": 51.48879,
+          "longitude": -0.441614
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 2,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "DEFRA",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 42,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "DEFRA",
+            "averagingPeriod": {
+              "value": 28800,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 19,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "DEFRA",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "DEFRA",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Shanghai",
+        "city": "Shanghai",
+        "country": "CN",
+        "coordinates": {
+          "latitude": 31.21,
+          "longitude": 121.44
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 33,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Shanghai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Vikas Sadan, Gurugram - HSPCB",
+        "city": "Gurugram",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 28.4501238,
+          "longitude": 77.0263051
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 1020,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 132.94,
+            "lastUpdated": "2016-04-12T09:30:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 205.5,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 50.19,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.01,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 37.27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Zoo Park, Hyderabad - TSPCB",
+        "city": "Hyderabad",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 17.349694,
+          "longitude": 78.451437
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 3.1,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 76,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 900,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 15.9,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 147,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 29.7,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Department of Disease Control",
+        "city": "Nonthaburi",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.853457,
+          "longitude": 100.527132
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 0.59,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.016,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.029,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 58,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 32,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.003,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Sukhothai Thammathirat Open University",
+        "city": "Nonthaburi",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.907861,
+          "longitude": 100.535641
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 0.009,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2020-07-24T23:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.021,
+            "lastUpdated": "2019-08-02T01:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2020-07-24T08:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 63,
+            "lastUpdated": "2021-11-14T15:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 29,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Pluakdaeng District Health Office",
+        "city": "Rayong",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 12.97378,
+          "longitude": 101.212844
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.035,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 24,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 37,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Sanjay Palace, Agra - UPPCB",
+        "city": "Agra",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 27.19865833,
+          "longitude": 78.00598056
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 227,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1640,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 85.5,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.2,
+            "lastUpdated": "2021-11-29T04:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 18.6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 152,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Residence for Dept. of Mineral Resources",
+        "city": "Samut Prakan",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.652141,
+          "longitude": 100.531805
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 42,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.035,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.007,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0.6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 28,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Highway District",
+        "city": "Samut Sakhon",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.705458,
+          "longitude": 100.315675
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 77,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 38,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0.66,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.019,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.035,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Thai Meteorological Department",
+        "city": "Bangkok",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.666183,
+          "longitude": 100.605742
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 980.49,
+            "lastUpdated": "2021-09-16T11:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.042,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.011,
+            "lastUpdated": "2020-07-09T04:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 36,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.003,
+            "lastUpdated": "2021-07-01T04:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 55,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Natural Resources and Environment Office, Chiangrai",
+        "city": "Chiang Rai",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 19.909242,
+          "longitude": 99.823357
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.023,
+            "lastUpdated": "2019-08-02T01:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0.44,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.023,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 21,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Thonburi Power Sub-Station",
+        "city": "Bangkok",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.727622,
+          "longitude": 100.486568
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 0.63,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 35,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.026,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 60,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.022,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Bodindecha Sing Singhaseni School",
+        "city": "Bangkok",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.769634,
+          "longitude": 100.614567
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 57,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.034,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2021-11-24T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.002,
+            "lastUpdated": "2020-09-17T01:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 26,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Samut Sakhon Wittayalai School",
+        "city": "Samut Sakhon",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.550478,
+          "longitude": 100.264254
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 0.004,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 48,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 93,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.037,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.012,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Municipality Office Tungsadao",
+        "city": "Chachoengsao",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.588554,
+          "longitude": 101.286359
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.006,
+            "lastUpdated": "2021-11-25T06:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.033,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.001,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 59,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Health Promotion Hospital",
+        "city": "Lampang",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 18.419425,
+          "longitude": 99.727046
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 0.003,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 25,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 18,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2020-09-22T09:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.024,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Nonsi Witthaya School",
+        "city": "Bangkok",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.708067,
+          "longitude": 100.547333
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 64,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0.47,
+            "lastUpdated": "2020-09-14T03:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 29,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.005,
+            "lastUpdated": "2021-11-24T01:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.007,
+            "lastUpdated": "2021-06-13T20:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.031,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Talkatora District Industries Center, Lucknow - CPCB",
+        "city": "Lucknow",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 26.83399722,
+          "longitude": 80.8917361
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 71.08,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 35.15,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 980,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 114.41,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 105.9,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 191.5,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Sector-6, Panchkula - HSPCB ",
+        "city": "Panchkula",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 30.7057778,
+          "longitude": 76.8531805555555
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 12.25,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 58.83,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 16.33,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 20.4,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 570,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Manali, Chennai - CPCB",
+        "city": "Chennai",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 13.164544,
+          "longitude": 80.26285
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 12.68,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 41.83,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 65.53,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 20.45,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 180,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 15.16,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Alsancak İBB",
+        "city": "İzmir",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 38.432222,
+          "longitude": 27.144444
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 27,
+            "lastUpdated": "2017-01-03T13:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 11.63,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 64.44,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2017-09-25T11:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Meram",
+        "city": "Konya",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 37.860094,
+          "longitude": 32.475303
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 16.41,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 59.61,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 823.31,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": -5,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Soma",
+        "city": "Manisa",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 39.1814164390888,
+          "longitude": 27.6129126548767
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 54.18,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 64.8,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 50.87,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1354.79,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 18.61,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Gemilercekeği",
+        "city": "Giresun",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.9144450215632,
+          "longitude": 38.3985642578632
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 16.02,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 11,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 568.1,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2018-10-13T21:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 20.41,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "IE0147A",
+        "city": "Kilkenny",
+        "country": "IE",
+        "coordinates": {
+          "latitude": 52.638798,
+          "longitude": -7.268114
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 0.9,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Ireland",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 52.87,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Ireland",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Bahabey",
+        "city": "Çorum",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.5465545433215,
+          "longitude": 34.9672990445621
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 533.13,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 51.79,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 55.45,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 46.64,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0027A",
+        "city": "Borsod-Abaúj-Zemplén",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 48.1069141113793,
+          "longitude": 20.7899801149633
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 13.19377,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 451.59965,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.237391,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 36.97667,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0045A",
+        "city": "Budapest",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.4919433594653,
+          "longitude": 19.08778191
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 1.9306518,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 11.17544,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 69.5964275,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 664.6959,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0030A",
+        "city": "Baranya",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 46.0711097694636,
+          "longitude": 18.22528648
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 75.7775775,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.7316168,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 708.846925,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 18.4990625,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0025A",
+        "city": "Gyor-Moson-Sopron",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.676114611619,
+          "longitude": 17.6497393762667
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 14.4709775,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 339.874025,
+            "lastUpdated": "2020-11-17T11:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 1.6095763,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": -9999,
+            "lastUpdated": "2021-07-25T08:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 12.1327875,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 25.98265,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0040A",
+        "city": "Gyor-Moson-Sopron",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.6719474794656,
+          "longitude": 16.8388958
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 5.9178,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 37.61656,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.0319465,
+            "lastUpdated": "2021-10-06T09:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 1.29097,
+            "lastUpdated": "2020-09-23T06:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0026A",
+        "city": "Borsod-Abaúj-Zemplén",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 48.2472228994667,
+          "longitude": 20.61640358
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 1239.58625,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.1675513,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 9.897453,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 31.4559025,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 8.3588715,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 22.7766875,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0038A",
+        "city": "Borsod-Abaúj-Zemplén",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 48.2180557294667,
+          "longitude": 20.70305824
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 37.1360425,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 22.064565,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 8.2432615,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 4.4790468,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1207.7865,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0037A",
+        "city": "Veszprém",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.1052780194647,
+          "longitude": 17.55666542
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 831.3303,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 22.5597825,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.3245028,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 32.618245,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 9.15066,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0002R",
+        "city": "Bács-Kiskun",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 46.9666978072949,
+          "longitude": 19.5500355282931
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 9.5171667,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 56.3373,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0044A",
+        "city": "Borsod-Abaúj-Zemplén",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 48.4738883994673,
+          "longitude": 21.21167946
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 11.4588725,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0057A",
+        "city": "Csongrád",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 46.2666139994637,
+          "longitude": 20.153053
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 7.341552,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 743.32375,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 12.416655,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 7.7490885,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 16.635035,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0032A",
+        "city": "Pest",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.306667329465,
+          "longitude": 18.92000198
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 9.62306,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.0300075,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 15.73151,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 505.3964,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 42.868535,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0031A",
+        "city": "Komárom-Esztergom",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.5572204594654,
+          "longitude": 18.42083549
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 787.701625,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 9.623516,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 8.3829173,
+            "lastUpdated": "2021-05-03T11:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.5696915,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 36.2055375,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0039A",
+        "city": "Komárom-Esztergom",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.7900051076054,
+          "longitude": 18.7461331805346
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 17.1408855,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 4.3580915,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 3.7093365,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 901.485225,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 36.6769425,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 3.098973,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0024A",
+        "city": "Gyor-Moson-Sopron",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.6852798494656,
+          "longitude": 17.63944435
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 49.5426675,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.835402,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 775.694125,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 7.301101,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 6.0996343,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0022A",
+        "city": "Budapest",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.4308357194652,
+          "longitude": 19.18417358
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 1.197879,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 6.696257,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 9.154252,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 400.7124,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 6.782937,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 45.32912,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0023A",
+        "city": "Hajdú-Bihar",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.5133323694653,
+          "longitude": 21.62444496
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 7.7145188,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 438.192325,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 42.5330275,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 8.1348483,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.5516548,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0042A",
+        "city": "Budapest",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.5419439994654,
+          "longitude": 19.146122
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 14.24537,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.585658,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 3.986633,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 464.6635,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 53.86934,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0036A",
+        "city": "Budapest",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.5619430494654,
+          "longitude": 18.96000862
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 424.3448,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 18.03375,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 36.54682,
+            "lastUpdated": "2021-11-30T11:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 4.369789,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 3.447508,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0041A",
+        "city": "Budapest",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.5080566394653,
+          "longitude": 19.02806664
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 6.666834,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 828.7017,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 9.646621,
+            "lastUpdated": "2021-11-30T11:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 67.9175,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0033A",
+        "city": "Fejér",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 46.9761123694645,
+          "longitude": 18.93611336
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 7.284828,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0.473418,
+            "lastUpdated": "2021-11-30T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 11.7681,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1730.0665,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 30.5077625,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.2185823,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0028A",
+        "city": "Szabolcs-Szatmár-Bereg",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.9611129794661,
+          "longitude": 21.70583916
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 21.31519,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 2.486286,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 237.08645,
+            "lastUpdated": "2021-01-22T10:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 12.0869053,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0035A",
+        "city": "Gyor-Moson-Sopron",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 47.6919439994656,
+          "longitude": 16.575008
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 0.2159772,
+            "lastUpdated": "2021-11-24T13:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 8.3726115,
+            "lastUpdated": "2021-11-25T17:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 10.48037,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 32.5400675,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1043.54725,
+            "lastUpdated": "2020-10-29T23:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "HU0029A",
+        "city": "Baranya",
+        "country": "HU",
+        "coordinates": {
+          "latitude": 46.0802764894636,
+          "longitude": 18.21112251
+        },
+        "measurements": [
+          {
+            "parameter": "pm25",
+            "value": 3.026184,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 4.9469728,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 29.15614,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 28.327815,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Hungary",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Boyabat",
+        "city": "Sinop",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 41.4612153258963,
+          "longitude": 34.7769675014756
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 183.95,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 44.34,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 2138.96,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 45.17,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Demetevler",
+        "city": "Ankara",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 39.9677388866755,
+          "longitude": 32.7956697288361
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 8.45,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 39.45,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 73.09,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Erbaa",
+        "city": "Tokat",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.6717850531471,
+          "longitude": 36.5616356021798
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 39.61,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 7.08,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 23,
+            "lastUpdated": "2018-10-13T21:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Sincan",
+        "city": "Ankara",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 39.953072,
+          "longitude": 32.581754
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 32.88,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 504,
+            "lastUpdated": "2018-03-23T08:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 52.09,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 8.44,
+            "lastUpdated": "2021-11-30T14:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Turhal",
+        "city": "Tokat",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.3856098020358,
+          "longitude": 36.0827968520147
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 15.98,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 19.99,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 71.86,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "IE0118A",
+        "city": "Mayo",
+        "country": "IE",
+        "coordinates": {
+          "latitude": 53.851111,
+          "longitude": -9.299722
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 2.94,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Ireland",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 10,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Ireland",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 57.65,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Ireland",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Başöğretmen",
+        "city": "Sivas",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 39.7487205462114,
+          "longitude": 37.0256551065215
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 20.95,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 37.35,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 46.57,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Merzifon",
+        "city": "Amasya",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.8743333045692,
+          "longitude": 35.4574722102547
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 29.11,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 11.25,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 28.28,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Meteoroloji",
+        "city": "Adana",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 37.0040545100691,
+          "longitude": 35.3440100793125
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 155,
+            "lastUpdated": "2018-10-13T21:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 17.64,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 19.82,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 53.87,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Meydan",
+        "city": "Tokat",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.3186640218653,
+          "longitude": 36.5521035208794
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 60.74,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 14.61,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 540.83,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 85.79,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Mimar Sinan",
+        "city": "Çorum",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.5314384547631,
+          "longitude": 34.9443056654103
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 38.78,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 30.07,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 27.73,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "IE0127A",
+        "city": "Dublin City",
+        "country": "IE",
+        "coordinates": {
+          "latitude": 53.313889,
+          "longitude": -6.249167
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 39.24,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "EEA Ireland",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Şehzade",
+        "city": "Amasya",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.6572237456913,
+          "longitude": 35.8379605214598
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 39.26,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1101.52,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 36.14,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 9.91,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "İstasyonkavşağı",
+        "city": "Sivas",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 39.7472952016541,
+          "longitude": 37.0131597456248
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 60.51,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 444.15,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 52.6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "İskenderun",
+        "city": "Hatay",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 36.7141403795385,
+          "longitude": 36.2239186822096
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 35.07,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 19.4,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 337.7,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 9.27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 1.27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "İlkadım Hastane",
+        "city": "Samsun",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 41.2778870291031,
+          "longitude": 36.3380980102845
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 16.1,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 39.97,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Ünye",
+        "city": "Ordu",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 41.1214417212533,
+          "longitude": 37.2802703110564
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 27.67,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 7.01,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 31.44,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 73.79,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Antakya",
+        "city": "Hatay",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 36.211265,
+          "longitude": 36.138267
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 6.1,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 84.07,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Doğankent",
+        "city": "Adana",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 36.8545335602479,
+          "longitude": 35.3491425469822
+        },
+        "measurements": [
+          {
+            "parameter": "o3",
+            "value": 50.21,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 18.65,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 14.11,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 16,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Atakum",
+        "city": "Samsun",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 41.3253836312014,
+          "longitude": 36.2965958120325
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 36.23,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 19.27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.46,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 25.4,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Kayaş",
+        "city": "Ankara",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 39.925380910314,
+          "longitude": 32.9267642097532
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 79.31,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 37,
+            "lastUpdated": "2018-10-13T21:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 7.85,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Karşıyaka İBB",
+        "city": "İzmir",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 38.454167,
+          "longitude": 27.109722
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 6.6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 31.51,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 22,
+            "lastUpdated": "2017-09-26T13:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2017-09-26T13:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Kestel-MTHM",
+        "city": "Bursa",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.19542,
+          "longitude": 29.2054
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 36.89,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 15.8,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 47.39,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "LA BOCA",
+        "city": "Buenos Aires",
+        "country": "AR",
+        "coordinates": {
+          "latitude": -34.62527,
+          "longitude": -58.36555
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 28800,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "CORDOBA",
+        "city": "Buenos Aires",
+        "country": "AR",
+        "coordinates": {
+          "latitude": -34.60441667,
+          "longitude": -58.39165
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0.53,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 28800,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "CENTENARIO",
+        "city": "Buenos Aires",
+        "country": "AR",
+        "coordinates": {
+          "latitude": -34.60638,
+          "longitude": -58.43194
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Buenos Aires",
+            "averagingPeriod": {
+              "value": 28800,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Dilovası",
+        "city": "Kocaeli",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 40.788729,
+          "longitude": 29.537187
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 650.22,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 29.88,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 17.08,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 5243,
+            "lastUpdated": "2018-01-25T12:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 8.29,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Bornova İBB",
+        "city": "İzmir",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 38.469167,
+          "longitude": 27.221389
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 2.79,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 48.34,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 432.33,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 10.69,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Çatalağzı Kuzyaka",
+        "city": "Zonguldak",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 41.510601,
+          "longitude": 31.896509
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 1421.57,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 33.73,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 11.99,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 47.88,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 42.5,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Civil Line, Jalandhar - PPCB",
+        "city": "Jalandhar",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 31.321907,
+          "longitude": 75.578914
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 1490,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 26.43,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 58.07,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 17.76,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 134.07,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 77.95,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Chulalongkorn Hospital",
+        "city": "Bangkok",
+        "country": "TH",
+        "coordinates": {
+          "latitude": 13.729852,
+          "longitude": 100.536501
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 0.047,
+            "lastUpdated": "2020-09-21T06:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 35,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0.037,
+            "lastUpdated": "2019-08-02T01:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 59,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 86400,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 0.025,
+            "lastUpdated": "2018-03-24T16:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0.76,
+            "lastUpdated": "2021-11-14T01:00:00Z",
+            "unit": "ppm",
+            "sourceName": "Air4Thai",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "BTM Layout, Bengaluru - CPCB",
+        "city": "Bengaluru",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 12.9135218,
+          "longitude": 77.5950804
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 6.91,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 8.15,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 39.03,
+            "lastUpdated": "2021-12-02T05:45:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 65.92,
+            "lastUpdated": "2021-12-02T05:45:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 9.13,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 3810,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Güzelyalı İBB",
+        "city": "İzmir",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 38.395833,
+          "longitude": 27.082778
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 2.61,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 27.67,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 5.92,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 294.85,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Tören Alanı",
+        "city": "Karabük",
+        "country": "TR",
+        "coordinates": {
+          "latitude": 41.197475,
+          "longitude": 32.623379
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 17.35,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 937.28,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 15.53,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 26.9,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "Turkey",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Alandur Bus Depot, Chennai - CPCB",
+        "city": "Chennai",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 12.9099161,
+          "longitude": 80.1076538
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 51.91,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 18.78,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 200,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 26.16,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 23.99,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 15.1,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "MIDC Khutala, Chandrapur - MPCB",
+        "city": "Chandrapur",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 19.9775302,
+          "longitude": 79.2337086
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 680,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 10.95,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 123.22,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 16.28,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 61.72,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 130.44,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Talcher Coalfields,Talcher - OSPCB",
+        "city": "Talcher",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 20.9360711,
+          "longitude": 85.1707021
+        },
+        "measurements": [
+          {
+            "parameter": "pm10",
+            "value": 63.21,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 32.15,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 24.27,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1680,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 36.28,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Punjab Agricultural University, Ludhiana - PPCB",
+        "city": "Ludhiana",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 30.9028,
+          "longitude": 75.8086
+        },
+        "measurements": [
+          {
+            "parameter": "no2",
+            "value": 30.12,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 146.35,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1330,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 19.34,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 58.06,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 75.19,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Moti Doongri, Alwar - RSPCB",
+        "city": "Alwar",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 27.554793,
+          "longitude": 76.611536
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 13.39,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 27.54,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 900,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 38.63,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 1440,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Ardhali Bazar, Varanasi - UPPCB",
+        "city": "Varanasi",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 25.3505986,
+          "longitude": 82.9083074
+        },
+        "measurements": [
+          {
+            "parameter": "co",
+            "value": 690,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 69.78,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 106,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 65.8,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "so2",
+            "value": 17.82,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 260,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      },
+      {
+        "location": "Pimpleshwar Mandir, Thane - MPCB",
+        "city": "Thane",
+        "country": "IN",
+        "coordinates": {
+          "latitude": 19.192056,
+          "longitude": 72.9585188
+        },
+        "measurements": [
+          {
+            "parameter": "so2",
+            "value": 9.68,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "co",
+            "value": 0,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "o3",
+            "value": 11.62,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm10",
+            "value": 95.6,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "no2",
+            "value": 103.65,
+            "lastUpdated": "2021-12-02T07:00:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          },
+          {
+            "parameter": "pm25",
+            "value": 81.63,
+            "lastUpdated": "2019-02-14T05:15:00Z",
+            "unit": "µg/m³",
+            "sourceName": "caaqm",
+            "averagingPeriod": {
+              "value": 3600,
+              "unit": "seconds"
+            }
+          }
+        ]
+      }
+    ]
+  }

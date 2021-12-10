@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Monitoring Application</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+    <script src=
+    "https://smtpjs.com/v3/smtp.js">
+  </script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="./index.html" class="active">Arduino CSV Visualization</a></li>
+            <!-- <li><a href="./airQualityAPI.html">World Air Quality</a></li> -->
+
+        </ul>
+    </nav>
+
+    <h1>Air quality Monitoring System CSV Data </h1>
+    <h2 class="totalEntries"></h2>
+    <form method="post" class="styled-button">
+      
+            <input type="button" value="Send Email" 
+            onclick="sendEmail()" />
+             
+      </form>
+    <div class="chartsGrid"> 
+        <div class="AirQuality">
+            <canvas id="AirQualityLine">
+
+            </canvas>
+            <canvas class="AirQualityBar">
+                
+            </canvas>
+            <canvas class="AirQualityPie">
+                
+            </canvas>
+
+
+        </div>
+
+        <div class="CO">
+            <canvas class="COLine"></canvas>
+            <canvas class="COBar"></canvas>
+        </div>
+        <div class="temp">
+            <canvas class="TempLine"></canvas>
+            <canvas class="TempBar"></canvas>
+        </div>
+        <div class="humidity">
+            <canvas class="HumLine"></canvas>
+            <canvas class="HumBar"></canvas>
+        </div>
+    </div>
+
+    <div class="safeLimits">
+        <img src="./img/safe.png" alt="">
+
+    </div>
+
+    <script src="./index.js">
+        
+    </script>
+    
+</body>
+</html>
